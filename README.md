@@ -1,16 +1,19 @@
-## Hi there 👋
+# 😸 Hello World, mi nombre es Nicolas
 
-<!--
-**NickHubDev/NickHubDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner NIZOLAX](/BANNER.png)
 
-Here are some ideas to get you started:
+**Presentación**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Banner NIZOLAX-PRO](/BANNER%20NIZOLAX-PRO.png)
+
+---
+
+## Proyectos de la comunidad
+
+### Curso de Discord Basics
+
+### Curso de Discord Advanced
+
+### Curso de Discord.js
+
+### Curso de Discord.py
