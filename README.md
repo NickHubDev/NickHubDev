@@ -6,11 +6,11 @@
 
 ![Banner NIZOLAX](/assets/banners/BANNER.png)
 
-Soy desarrollador de software y automatizaciones desde 2024, con un enfoque centrado en crear herramientas útiles, interfaces sencillas y soluciones que simplifiquen tareas repetitivas.
+Soy **desarrollador de software y automatizaciones desde 2024**, con un enfoque centrado en crear herramientas útiles, interfaces sencillas y soluciones que simplifiquen tareas repetitivas.
 
-He desarrollado distintos proyectos relacionados con el ecosistema de Discord, desde la creación y administración de comunidades hasta el desarrollo de bots personalizados y sistemas de automatización. En cada proyecto procuro aplicar buenas prácticas y mantener un enfoque profesional, priorizando la calidad, la organización y la experiencia del usuario.
+He desarrollado distintos ***proyectos relacionados con el ecosistema de Discord, desde la creación y administración de comunidades hasta el desarrollo de bots personalizados y sistemas de automatización.*** En cada proyecto procuro aplicar buenas prácticas y mantener un enfoque profesional, priorizando la calidad, la organización y la experiencia del usuario.
 
-Además, soy creador de contenido en múltiples plataformas, donde comparto cursos y recursos completamente gratuitos sobre programación, Discord y otras tecnologías. Mi objetivo es hacer que el aprendizaje sea más accesible, reduciendo la barrera de entrada para quienes comienzan en el mundo del desarrollo de software.
+Además, **soy creador de contenido en múltiples plataformas, donde comparto cursos y recursos completamente gratuitos sobre programación, Discord y otras tecnologías.** Mi objetivo es hacer que el aprendizaje sea más accesible, **reduciendo la barrera de entrada** para quienes comienzan en el mundo del desarrollo de software.
 
 Creo que la informática no debería ser un camino complicado por la falta de recursos o documentación clara. Por eso trabajo para crear herramientas, contenido y proyectos que ayuden a la comunidad a aprender, construir y crecer de una forma más sencilla.
 
@@ -20,7 +20,7 @@ Creo que la informática no debería ser un camino complicado por la falta de re
 
 Uno de mis principales objetivos siempre ha sido ofrecer la mayor cantidad posible de contenido gratuito a la comunidad. Sin embargo, crear recursos de calidad requiere una gran inversión de tiempo y esfuerzo, por lo que nace **Nizolax Pro**.
 
-**Nizolax Pro** es una plataforma que actualmente se encuentra en una fase temprana de desarrollo y que busca ofrecer una experiencia de aprendizaje mucho más completa que la disponible en mis redes sociales. Además de cursos más avanzados, incluirá ejercicios prácticos, proyectos reales, retos, seguimiento del progreso y asesoría personal para ayudarte a aprender de una forma más efectiva.
+**Nizolax Pro** es una plataforma que actualmente se encuentra en una ***fase temprana de desarrollo y que busca ofrecer una experiencia de aprendizaje mucho más completa que la disponible en mis redes sociales.*** Además de cursos más avanzados, incluirá ejercicios prácticos, proyectos reales, retos, seguimiento del progreso y asesoría personal para ayudarte a aprender de una forma más efectiva.
 
 Mi objetivo no es simplemente publicar cursos, sino crear un entorno donde puedas desarrollar habilidades aplicándolas en proyectos reales y contando con recursos que te acompañen durante todo el proceso de aprendizaje.
 
