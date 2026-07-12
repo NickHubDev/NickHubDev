@@ -71,6 +71,8 @@ obar la veracidad y facilidad de uso de este.
 
 ### Curso de Discord Basics
 
+![DISCORD BASICS](./assets/miniatura/MINIATURA%20DISCORD%20BASICS.png)
+
 ### Curso de Discord Advanced
 
 ### Curso de Discord.js
