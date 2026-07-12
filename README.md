@@ -33,29 +33,31 @@ obar la veracidad y facilidad de uso de este.
 
 <div align="center">
 
+<p align="center">
 <a href="https://github.com/NickHubDev">
-    <img src="./assets/img/github.webp" alt="Logo Github" width="40" height="40">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.youtube.com/@nizolax-pro">
-    <img src="./assets/img/youtube logo.webp" alt="Logo Youtube" width="47" height="36">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="https://www.twitch.tv/nizolax">
-    <img src="./assets/img/images.jpg" alt="Logo Twitch" width="40" height="40">
+<a href="https://discord.gg/GrF6AyTqjK">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <a href="https://x.com/NIZOLAX">
-    <img src="./assets/img/Logo X.png" alt="Logo X" width="41" height="41">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="https://www.tiktok.com/@nizolax7">
-    <img src="./assets/img/Logo Tiktok.png" alt="Logo Tiktok" width="40" height="40">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/nizo.lax/">
-    <img src="./assets/img/instagram.webp" alt="Logo instagram" width="40" height="40">
+<a href="https://www.instagram.com/nizo.lax">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+</p>
 
 </div>
 
