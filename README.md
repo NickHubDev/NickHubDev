@@ -12,7 +12,7 @@ Además, soy creador de contenido en múltiples plataformas, donde comparto curs
 
 Creo que la informática no debería ser un camino complicado por la falta de recursos o documentación clara. Por eso trabajo para crear herramientas, contenido y proyectos que ayuden a la comunidad a aprender, construir y crecer de una forma más sencilla.
 
-## 🚀 Te presento mi proyecto más ambicioso hasta la fecha
+# 🚀 Te presento mi proyecto más ambicioso hasta la fecha
 
 ![Banner NIZOLAX-PRO](/assets/banners/BANNER%20NIZOLAX-PRO.png)
 
@@ -34,7 +34,7 @@ obar la veracidad y facilidad de uso de este.
 <div align="center">
 
 <a href="https://github.com/NickHubDev">
-    <img src="./assets/img/image.svg" alt="Logo Github" width="40" height="40">
+    <img src="./assets/img/github.webp" alt="Logo Github" width="40" height="40">
 </a>
 
 <a href="https://www.youtube.com/@nizolax-pro">
@@ -42,15 +42,15 @@ obar la veracidad y facilidad de uso de este.
 </a>
 
 <a href="https://www.twitch.tv/nizolax">
-    <img src="./assets/img/Logo Twitch.png" alt="Logo Twitch" width="40" height="40">
+    <img src="./assets/img/images.jpg" alt="Logo Twitch" width="40" height="40">
 </a>
 
 <a href="https://x.com/NIZOLAX">
-    <img src="./assets/img/x logo.png" alt="Logo X" width="40" height="40">
+    <img src="./assets/img/Logo X.png" alt="Logo X" width="41" height="41">
 </a>
 
 <a href="https://www.tiktok.com/@nizolax7">
-    <img src="./assets/img/tiktok logo.png" alt="Logo Tiktok" width="40" height="40">
+    <img src="./assets/img/Logo Tiktok.png" alt="Logo Tiktok" width="40" height="40">
 </a>
 
 <a href="https://www.instagram.com/nizo.lax/">
