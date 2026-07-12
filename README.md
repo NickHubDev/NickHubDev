@@ -75,7 +75,11 @@ obar la veracidad y facilidad de uso de este.
 
 ### Curso de Discord Advanced
 
+![DISCORD ADVANCED](./assets/miniatura/DISCORD%20ADVANCED.png)
+
 ### Curso de Discord.js
+
+![DISCORD.JS](./assets/miniatura/DISCORD.JS.png)
 
 ### Curso de Discord.py 
 
